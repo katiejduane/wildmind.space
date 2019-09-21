@@ -1,22 +1,26 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2019-09-01T22:12:03.284Z"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+what is wild mind? why .space?
 
-I'm sure I'll write a lot more interesting things in the future.
+hello! wild mind is katie duane's personal development space for all
+things creative. I chose the domain "wild mind" simply because that best
+describes her mind type. it is all over the place, and not always in a
+"bad" way: I am curious about and love everything from flowers and rocks
+to learning about ancient ice sheets, asteroid composition, lunar history,
+the meanings of colors, and ...more.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+I usually attempt to express this wide-ranging curiosity through the
+making of art: be it visual or written, and sometime via projects on the
+web too! Obviously, this one is in its infancy, and rather hideous atm.
+It'll get there, and when it does, it will be my casita on the web for
+writing and sharing: thoughts, drawings, works-in-progress, and
+published/polished pieces, as they trickle in. I chose .space because I
+love outer space, wide-open spaces, and is a little spacey, myself. my
+father used to refer to me as "space cadet", and ask whether I was on
+pluto, or earth.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+come back soon! cheers!
