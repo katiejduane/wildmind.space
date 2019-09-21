@@ -1,6 +1,7 @@
 ---
 title: Catwoman, NOT catlady
 date: "2019-09-20T23:46:37.121Z"
+description: Will this work?
 ---
 
 I had to go to the supermarket tonight for some cat food. My cat, you see, is rather high maintenance and requires special food. While at the store, however, I realixed I should perhaps buy some food for next week. I do a little light cooking, most of the time, but I generally deplore cooking. Worse, if I devote time to cooking, I have less time to devote to my various writing projects, paintings, yoga, running, reading, and because I need it: chilling. So lately, to squeeze everythign in, I've been going to bed around 1 or 1:30 am. It's not sustainable. By Thursday I feel like I've been hit by a truck.
