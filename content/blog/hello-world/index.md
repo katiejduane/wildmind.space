@@ -1,7 +1,6 @@
 ---
 title: Hello World
-date: "2019-09-01T22:12:03.284Z"
-description: "Hello World"
+date: "2019-09-19T22:12:03.284Z"
 ---
 
 what is wild mind? why .space?
