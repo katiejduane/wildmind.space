@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `wildmind.space`,
     author: `kd`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A long, slow, meandering work-in-progress to something beautiful, maybe.`,
     siteUrl: `http://wildmind.space/`,
     social: {},
   },
