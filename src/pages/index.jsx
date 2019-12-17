@@ -7,6 +7,7 @@ import Sidebar from '../components/Sidebar'
 
 class IndexRoute extends React.Component {
   render() {
+    // console.log(this.props)
     const items = []
     const { title, subtitle } = this.props.data.site.siteMetadata
     const posts = this.props.data.allMarkdownRemark.edges
