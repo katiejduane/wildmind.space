@@ -1,33 +1,33 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://wildmind.space'
 
 module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'words & images by katie d.',
     subtitle:
       'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+    copyright: '© all rights reserved',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'articles',
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'about me',
         path: '/about/',
       },
       {
-        label: 'Contact me',
+        label: 'contact me',
         path: '/contact/',
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'katie d.',
       email: '#',
       telegram: '#',
       twitter: '#',
