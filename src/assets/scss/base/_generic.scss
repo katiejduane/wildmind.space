@@ -9,7 +9,7 @@ html {
 body {
   font-family: $typographic-font-family;
   color: $typographic-base-font-color;
-  background-color: rgb(53, 53, 82);
+  background-color: $body-background-color;
   //   this is where i edited the body background color!!!
   line-height: $typographic-base-line-height;
   font-size: $typographic-base-font-size;
@@ -102,12 +102,13 @@ hr {
 }
 
 a {
-  color: $typographic-link-p-font-color;
+  color: $color-base;
   text-decoration: none;
   &:hover,
   &:focus,
   &:active {
-    color: $typographic-link-s-font-color;
+    color: $hover-green;
+    border-bottom: 1px solid $hover-green;
   }
 }
 
