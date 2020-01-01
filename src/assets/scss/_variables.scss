@@ -8,12 +8,12 @@ $color-primary: #5d93ff;
 $color-secondary: #f7a046;
 
 $color-white: lighten($color-base, 100%);
-$color-light-gray: rgb(216, 215, 215);
+$color-light-gray: lighten($color-base, 70%);
 $color-gray: lighten($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 $body-background-color: rgb(58, 58, 58);
-$hover-purple: rgb(133, 76, 133);
+$hover-purple: rgb(128, 93, 154);
 $hover-green: rgb(115, 157, 141);
 
 // Typographic
