@@ -21,8 +21,8 @@
           border-bottom: 1px solid $hover-green;
         }
         &--active {
-          color: $color-base;
-          border-bottom: 1px solid $color-base;
+          color: $hover-green;
+          border-bottom: 1px solid $hover-green;
         }
       }
     }
