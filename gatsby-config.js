@@ -7,9 +7,9 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'words & images by katie d.',
+    title: 'wildmind.space',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'wildmind.space is my little online classroom to explore & organize all the things I love: art, writing, flowers, trees, stones, galaxy clusters, & the like :)',
     copyright: '© all rights reserved',
     disqusShortname: '',
     menu: [
