@@ -13,6 +13,8 @@ class Post extends React.Component {
     } = this.props.data.node.frontmatter
     const { slug, categorySlug } = this.props.data.node.fields
 
+    console.log('PROPZ!', this.props)
+
     return (
       <div className="post">
         <div className="post__meta">
