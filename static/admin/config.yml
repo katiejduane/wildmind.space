@@ -21,4 +21,4 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Path', name: 'path', widget: 'string', default: '/posts/' }
       - { label: 'Category', name: 'category', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false }
