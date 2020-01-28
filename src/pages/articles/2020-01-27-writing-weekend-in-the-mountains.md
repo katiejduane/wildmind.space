@@ -31,11 +31,7 @@ On the last day of the month, I'll post a final time, going over the goals I set
 
 To finish, a quote from the final days of my old blog, a moment of clarity about 'pattern-hunting':a little 'note' I wrote myself:
 
-> Looking is often futile, I think. Whether or not there is some great mysterious pattern, what 
->
-> _is_
->
->  certain is that jumping the gun rarely serves us. What I need to cultivate is greater patience, a willingness to sit through the storms, through the ugly mess, through the senseless times. While I strongly believe that there is a lesson in everything, I also need to accept the fact that sometimes: we just fuck up. We make mistakes and we have to live with them. They don’t all point us toward some glittering jewel we don’t know exists. Some of the mistakes are minor, easily fixable, forgettable even. But some mistakes change the course of our lives, some hurt us for a long time, or hurt others, some make things difficult for us for years, some we must look back on as a mistake–however trivial or grave–and not some roadblock that redirected us toward a superior destiny. It’s wishful thinking, and, for me at least, it’s too easy. I’m rarely partial toward what’s easiest.
+> Looking is often futile, I think. Whether or not there is some great mysterious pattern, what _is_ certain is that jumping the gun rarely serves us. What I need to cultivate is greater patience, a willingness to sit through the storms, through the ugly mess, through the senseless times. While I strongly believe that there is a lesson in everything, I also need to accept the fact that sometimes: we just fuck up. We make mistakes and we have to live with them. They don’t all point us toward some glittering jewel we don’t know exists. Some of the mistakes are minor, easily fixable, forgettable even. But some mistakes change the course of our lives, some hurt us for a long time, or hurt others, some make things difficult for us for years, some we must look back on as a mistake–however trivial or grave–and not some roadblock that redirected us toward a superior destiny. It’s wishful thinking, and, for me at least, it’s too easy. I’m rarely partial toward what’s easiest.
 
 And a little 'note' I wrote myself:
 
