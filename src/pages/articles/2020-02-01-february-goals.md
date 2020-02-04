@@ -21,6 +21,8 @@ Let's start out with the nitty-gritty:
 5. **A Solemn Pleasure**, by Melissa Pritchard
 6. **Mendocino Fire**, by Elizabeth Tallent
 7. **Gathering Moss**, by  Robin Wall Kimmerer
+8. **The Pocket Pema Chödron**, by Pema Chödron
+9. **No Mud, No Lotus**, by Thich Nhat Hanh
 
 \* Bonus Books (I'm doubtful I'll get to them but I'll try, otherwise they'll go to the March list), : **Arctic Dreams** by Barry Lopez, **Braiding Sweetgrass** by Robin Wall Kimmerer, and **A Short History of Nearly Everything**, by Bill Bryson, **Writing Down the Bones,** by Natalie Goldberg)
 
