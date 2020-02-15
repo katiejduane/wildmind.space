@@ -7,7 +7,7 @@ description: >-
   what allows every day to feel like a gift, it is what makes mystery gorgeous,
   it is what makes you creative, generative, and ecstatic about being alive...
 path: /posts/writing-in-the-mountains-of-georgia
-category: writing
+category: journal
 tags:
   - goals
   - writing
