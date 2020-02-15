@@ -4,7 +4,7 @@ date: 2020-01-23T03:39:24.848Z
 layout: post
 description: 'because i''ve been writing it, over and over, for the last ten years'
 path: /posts/the-kind-of-writing-not-allowed
-category: writing
+category: journal
 tags:
   - writing
   - goals
