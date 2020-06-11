@@ -1,0 +1,18 @@
+/** 
+ * Categories
+ */
+
+.categories {
+  &__list {
+    &-item {
+      &-link {
+        color: $hover-purple;
+        &:hover,
+        &:focus {
+          color: $hover-purple;
+          border-bottom: 1px solid $hover-purple;
+        }
+      }
+    }
+  }
+}
